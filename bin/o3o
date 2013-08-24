@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'o3o/cli'
+O3o::CLI.start
